@@ -1,6 +1,7 @@
 
 
 
+
 <!DOCTYPE html>
 <meta charset="UTF-8">
 <html lang="id" class=" js csstransitions js csstransitions"><head>
@@ -51,7 +52,7 @@
 <meta name="viewport" content="width=device-width">
 <meta content="GELASTOGEL menghadirkan panduan strategi jitu untuk pola bermain game online yang lebih stabil. Optimalkan pengalaman gaming Anda dengan sistem profesional dan transaksi kilat 2026. Daftar di situs paling bonafit GELASTOGEL hari ini." name="description"/>
 <link rel="prefetch" href="https://gelastogel.github.io/" as="document"/>
-<link rel="amphtml" href="https://amp-mariowin.onrender.com" /> 
+<link rel="amphtml" href="https://amp-gelastogel.com" /> 
 <meta name="googlebot-news" content="index, follow" />
 <meta  name="googlebot" content="index, follow" />
 <meta name="author" content="SEO ACIL">
